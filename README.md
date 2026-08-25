@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Amit Maurya 👋
 
-<!--
-**amitmaurya-analyst/amitmaurya-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I am passionate about turning raw data into meaningful insights and building dashboards using SQL, Power BI, Excel, and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- SQL
+- Power BI
+- Advanced Excel
+- Python
+- Data Visualization
+
+### Currently Learning
+- Data Analytics
+- Business Intelligence
+- SQL Optimization
+
+### Connect with Me
+- LinkedIn: linkedin.com/in/amitmaurya2005
+- Email: amitmaurya8826@gmail.com
