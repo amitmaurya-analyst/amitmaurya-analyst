@@ -1,4 +1,3 @@
-![Uploading ChatGPT Image Aug 24, 2026, 11_36_11 PM.png…]()
 # Hi, I'm Amit Maurya 👋
 
 ## Aspiring Data Analyst
