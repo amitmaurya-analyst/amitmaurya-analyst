@@ -14,7 +14,7 @@ I am passionate about turning raw data into meaningful insights and building das
 ### Currently Learning
 - Data Analytics
 - Business Intelligence
-- SQL Optimization
+- SQL Optimization 
 
 ### Connect with Me
 - LinkedIn: linkedin.com/in/amitmaurya2005
